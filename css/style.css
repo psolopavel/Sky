@@ -801,7 +801,7 @@ body.hidden {
   max-height: 43.75rem;
   position: absolute;
   bottom: 0;
-  background: url(../../img/slider/ine.png);
+  background: url(../img/slider/ine.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;

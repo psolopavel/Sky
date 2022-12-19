@@ -776,7 +776,7 @@ body.hidden {
   height: 100%;
   position: absolute;
   bottom: clamp( 0.625rem , 0.1125rem  +  2.5625vw , 3.1875rem );
-  background: url(../../img/slider/line-line.png);
+  background: url(../img/slider/line-line.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;
